@@ -22,7 +22,7 @@
   <a href="mailto:aliullah0301@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
-  <a href="[https://www.linkedin.com/in/zihad-bepari-313411329](https://www.linkedin.com/in/muhammad-ali-ullah/" target="_blank">
+  <a href=https://www.linkedin.com/in/muhammad-ali-ullah/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/aliullah1203" target="_blank">
