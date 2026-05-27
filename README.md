@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-I'm a passionate Backend Developer and Full Stack Engineer with a strong foundation in competitive programming. Currently working as a **Backend Developer at Deep Data Labs**. I specialize in building scalable applications and solving complex problems.
+I'm a passionate Backend Developer and Full Stack Engineer with a strong foundation in competitive programming. Currently working as a **Junior Software Engineer at Deep Data Labs**. I specialize in building scalable applications and solving complex problems.
 
 - **Education**: B.S. in Computer Science & Engineering (CSE) from UITS
 - **Current Role**: Junior Software Engineer at Deep Data Labs
