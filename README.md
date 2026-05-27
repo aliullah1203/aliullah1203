@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 - 🎓 Graduated in **Computer Science & Engineering (CSE)** from **UITS**
-- 🌱 Currently working as a **Backend Developer at Luciety**
+- 🌱 Currently working as a **Backend Developer at Deep Data Labs**
 - 💬 Ask me about **Tech Related Topics**
 
 ---
