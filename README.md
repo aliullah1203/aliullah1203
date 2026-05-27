@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-I'm a passionate Backend Developer and Full Stack Engineer with a strong foundation in competitive programming. Currently working as a **Backend Developer at Deep Data Labs**. I specialize in building scalable, efficient backend systems and have expertise across multiple technologies and programming paradigms.
+I'm a passionate Backend Developer and Full Stack Engineer with a strong foundation in competitive programming. Currently working as a **Backend Developer at Deep Data Labs**. I specialize in building scalable applications and solving complex problems.
 
 - **Education**: B.S. in Computer Science & Engineering (CSE) from UITS
 - **Current Role**: Junior Software Engineer at Deep Data Labs
@@ -64,9 +64,18 @@ I'm a passionate Backend Developer and Full Stack Engineer with a strong foundat
 ### Frontend
 <p>
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/>
   <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
+
+### Additional Technologies
+<p>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white" alt="TanStack Query"/>
 </p>
 
 ### Tools & DevOps
