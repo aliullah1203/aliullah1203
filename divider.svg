@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#61DAFB" stop-opacity="0"/><stop offset=".3" stop-color="#61DAFB"/><stop offset=".5" stop-color="#c084fc"/><stop offset=".7" stop-color="#00ADD8"/><stop offset="1" stop-color="#00ADD8" stop-opacity="0"/></linearGradient>
+<linearGradient id="spark" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<filter id="b"><feGaussianBlur stdDeviation="3"/></filter></defs>
+<style>.s{animation:run 4s ease-in-out infinite}@keyframes run{from{transform:translateX(-200px)}to{transform:translateX(1200px)}}</style>
+<rect x="0" y="11" width="1200" height="2" fill="url(#g)"/>
+<rect x="0" y="9" width="1200" height="6" fill="url(#g)" filter="url(#b)" opacity=".6"/>
+<rect class="s" x="0" y="10" width="160" height="4" rx="2" fill="url(#spark)"/>
+</svg>
