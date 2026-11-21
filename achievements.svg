@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="376" viewBox="0 0 900 376">
+<defs><linearGradient id="ln" gradientUnits="userSpaceOnUse" x1="0" y1="46" x2="0" y2="326"><stop offset="0" stop-color="#fbbf24"/><stop offset=".5" stop-color="#c084fc"/><stop offset="1" stop-color="#61DAFB"/></linearGradient></defs>
+<style>
+ .p{font:700 16px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif} .t{font:500 16px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif;fill:#c9d1d9}
+ .row{animation:in .7s ease-out both}
+ @keyframes in{from{opacity:0;transform:translateX(-16px)}to{opacity:1;transform:none}}
+ .line{stroke-dasharray:376;animation:draw 1.6s ease-out both}
+ @keyframes draw{from{stroke-dashoffset:376}to{stroke-dashoffset:0}}
+</style>
+<line class="line" x1="60" y1="46" x2="60" y2="326" stroke="url(#ln)" stroke-width="3"/>
+<g class="row" style="animation-delay:0.30s">
+ <circle cx="60" cy="46" r="18" fill="#161b22" stroke="#fbbf24" stroke-width="2"/>
+ <text x="60" y="53" text-anchor="middle" font-size="18">🏆</text>
+ <rect x="100" y="30" width="770" height="34" rx="10" fill="#161b22" stroke="#30363d"/>
+ <text x="120" y="53" class="p" fill="#fbbf24">2nd Place</text>
+ <text x="250" y="53" class="t">Hackify Hackathon 2025</text>
+</g><g class="row" style="animation-delay:0.50s">
+ <circle cx="60" cy="102" r="18" fill="#161b22" stroke="#e5e7eb" stroke-width="2"/>
+ <text x="60" y="109" text-anchor="middle" font-size="18">🥈</text>
+ <rect x="100" y="86" width="770" height="34" rx="10" fill="#161b22" stroke="#30363d"/>
+ <text x="120" y="109" class="p" fill="#e5e7eb">2nd Place</text>
+ <text x="250" y="109" class="t">UITS CSE Day Programming Contest 2025</text>
+</g><g class="row" style="animation-delay:0.70s">
+ <circle cx="60" cy="158" r="18" fill="#161b22" stroke="#f59e0b" stroke-width="2"/>
+ <text x="60" y="165" text-anchor="middle" font-size="18">🥉</text>
+ <rect x="100" y="142" width="770" height="34" rx="10" fill="#161b22" stroke="#30363d"/>
+ <text x="120" y="165" class="p" fill="#f59e0b">3rd Place</text>
+ <text x="250" y="165" class="t">Skillathon Programming Contest 2025</text>
+</g><g class="row" style="animation-delay:0.90s">
+ <circle cx="60" cy="214" r="18" fill="#161b22" stroke="#f59e0b" stroke-width="2"/>
+ <text x="60" y="221" text-anchor="middle" font-size="18">🥉</text>
+ <rect x="100" y="198" width="770" height="34" rx="10" fill="#161b22" stroke="#30363d"/>
+ <text x="120" y="221" class="p" fill="#f59e0b">3rd Place</text>
+ <text x="250" y="221" class="t">CSE &amp; IT Contest 2025</text>
+</g><g class="row" style="animation-delay:1.10s">
+ <circle cx="60" cy="270" r="18" fill="#161b22" stroke="#61DAFB" stroke-width="2"/>
+ <text x="60" y="277" text-anchor="middle" font-size="18">🎯</text>
+ <rect x="100" y="254" width="770" height="34" rx="10" fill="#161b22" stroke="#30363d"/>
+ <text x="120" y="277" class="p" fill="#61DAFB">16th</text>
+ <text x="250" y="277" class="t">Uttara University IUPC 2025</text>
+</g><g class="row" style="animation-delay:1.30s">
+ <circle cx="60" cy="326" r="18" fill="#161b22" stroke="#61DAFB" stroke-width="2"/>
+ <text x="60" y="333" text-anchor="middle" font-size="18">🎯</text>
+ <rect x="100" y="310" width="770" height="34" rx="10" fill="#161b22" stroke="#30363d"/>
+ <text x="120" y="333" class="p" fill="#61DAFB">17th</text>
+ <text x="250" y="333" class="t">UAP Junior Programming Contest 2024</text>
+</g>
+</svg>
